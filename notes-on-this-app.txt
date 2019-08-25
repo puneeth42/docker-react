@@ -1,0 +1,4 @@
+Notes -
+
+1. The docker compose file helps in mounting volumes easily so that development becomes easy. Ref - check docker-compose.yml
+2. Dockerfile.dev initates this app in development mode.
